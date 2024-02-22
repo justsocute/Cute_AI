@@ -1,0 +1,11 @@
+{
+    "zhipu_ai": {
+        "api_key": "d2bf8ab50ec79daefe4c8fcb747b9990.abqhgLXKj3LSncv4"
+    },
+
+    "baidu_stt_api": {
+        "APP_ID": "51947267",
+        "API_KEY": "89FyKzuxRAcemT9jGVf8jLq7",
+        "SECRET_KEY": "8sA4BDGBw06S4BW0Z9bZPV47wGADHend"
+    } 
+}

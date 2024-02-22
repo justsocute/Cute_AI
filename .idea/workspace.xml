@@ -4,21 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cb203563-ed1f-4c54-8357-9e9740e7e5c4" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Cute_AI.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AI_API.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/audio_recorder.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/document/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/speech_to_text.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/temp.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/你好.wav" afterDir="false" />
+    <list default="true" id="cb203563-ed1f-4c54-8357-9e9740e7e5c4" name="更改" comment="2024.2.19">
+      <change afterPath="$PROJECT_DIR$/application_window_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/voice_in.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/document/development_diary.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/text.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AI_API.py" beforeDir="false" afterPath="$PROJECT_DIR$/AI_API.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/audio_recorder.py" beforeDir="false" afterPath="$PROJECT_DIR$/audio_recorder.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/document/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/document/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/speech_to_text.py" beforeDir="false" afterPath="$PROJECT_DIR$/speech_to_text.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,8 +56,10 @@
     &quot;Python.6.executor&quot;: &quot;Run&quot;,
     &quot;Python.AI_API.executor&quot;: &quot;Run&quot;,
     &quot;Python.Recording_and_converting_text.executor&quot;: &quot;Run&quot;,
+    &quot;Python.application_window_demo.executor&quot;: &quot;Run&quot;,
     &quot;Python.main.executor&quot;: &quot;Run&quot;,
     &quot;Python.speech_to_text.executor&quot;: &quot;Run&quot;,
+    &quot;Python.text.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
@@ -90,6 +90,7 @@
       <recent name="E:\repository\Cute_AI" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\repository\Cute_AI\document" />
       <recent name="E:\repository\Cute_AI" />
       <recent name="E:\repository\Cute_AI\Cute_AI\document" />
     </key>
@@ -161,9 +162,20 @@
       <option name="presentableId" value="Default" />
       <updated>1708232281901</updated>
     </task>
+    <task id="LOCAL-00001" summary="2024.2.19">
+      <option name="closed" value="true" />
+      <created>1708340218336</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1708340218337</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="2024.2.19" />
+    <option name="LAST_COMMIT_MESSAGE" value="2024.2.19" />
   </component>
 </project>

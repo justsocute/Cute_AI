@@ -1,8 +1,3 @@
-'''
-这个文件定义了一个
-
-'''
-
 import pyaudio
 import wave
 
